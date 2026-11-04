@@ -1,0 +1,9 @@
+{
+  "version": 1,
+  "versionName": "1.0",
+  "file": "k1.zip",
+  "url": "https://raw.githubusercontent.com/JhayNotJ/Humanly/main/k1.zip",
+  "sha256": "ACTUAL_FILE_SHA256",
+  "size": 0,
+  "changelog": "Initial offline knowledge library"
+}
