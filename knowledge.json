@@ -3,7 +3,7 @@
   "versionName": "1.0",
   "file": "k1.zip",
   "url": "https://raw.githubusercontent.com/JhayNotJ/Humanly/main/k1.zip",
-  "sha256": "ACTUAL_FILE_SHA256",
-  "size": 0,
-  "changelog": "Initial offline knowledge library"
+  "sha256": "c368e7b4683c96cded1aad29900f9c6eb3835a3cd8b6a278a79f29d30e3fe131",
+  "size": 65866,
+  "changelog": "Initial HUMANLY offline educational knowledge library."
 }
