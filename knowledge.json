@@ -1,9 +1,15 @@
 {
-  "version": 1,
-  "versionName": "1.0",
-  "file": "k1.zip",
-  "url": "https://raw.githubusercontent.com/JhayNotJ/Humanly/main/k1.zip",
-  "sha256": "c368e7b4683c96cded1aad29900f9c6eb3835a3cd8b6a278a79f29d30e3fe131",
-  "size": 65866,
-  "changelog": "Initial HUMANLY offline educational knowledge library."
+  "version": 2,
+  "versionName": "1.1",
+  "file": "k11.zip",
+  "url": "https://raw.githubusercontent.com/JhayNotJ/Humanly/main/k11.zip",
+  "sha256": "abe850dad79216138e5541703e2781b830a50f47743b08cfc3c53f0643a14654",
+  "size": 83493,
+  "changelog": "Knowledge v1.1: 30 source-checked English/Filipino articles; 16 safety drafts held for review; 402 original articles preserved.",
+  "articles": 448,
+  "verifiedArticles": 30,
+  "educationalUnverifiedArticles": 418,
+  "visibleArticles": 432,
+  "heldDrafts": 16,
+  "verificationScope": "Source-check against cited official pages; not independent expert certification"
 }
